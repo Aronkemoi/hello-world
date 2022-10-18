@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+          {
+          int FirstNum,SecondNum,Sum;
+printf("enter the numbers..");
+scanf("%d %d",&FirstNum,SecondNum);
+Sum=FirstNum+SecondNum;
+printf("%d+%d=%d",FirstNum,SecondNum,Sum);
+return 0;
+}
