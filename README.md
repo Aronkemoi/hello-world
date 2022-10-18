@@ -1,2 +1,1 @@
-# hello-world
-simple c programs
+simple programs
