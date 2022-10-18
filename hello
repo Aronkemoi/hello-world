@@ -1,0 +1,8 @@
+hello world in c
+
+#include<stdio.h>
+main()
+      {
+      printf("hello world")
+      //printf is used to display what would be inside the qoutation
+      }
